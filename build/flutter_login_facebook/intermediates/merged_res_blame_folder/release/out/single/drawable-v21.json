@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/67ab4b3719d871c03b986ecdaa009096/transformed/core-1.3.2/res/drawable-v21/notification_action_background.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/url_launcher/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/url_launcher/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/url_launcher/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/url_launcher/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable/notification_bg.xml"
+    }
+]

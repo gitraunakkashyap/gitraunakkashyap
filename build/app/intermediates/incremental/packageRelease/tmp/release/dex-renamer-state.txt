@@ -1,0 +1,4 @@
+#Tue Oct 12 13:26:23 IST 2021
+base.0=/home/ubuntu-pc-2/AndroidStudioProjects/store/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

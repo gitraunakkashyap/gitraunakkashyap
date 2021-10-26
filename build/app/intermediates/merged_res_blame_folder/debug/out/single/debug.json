@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_splash.png.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_bedesistoreicon.jpg.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\bedesistoreicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_bedesistoreicon.jpg.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-mdpi\\bedesistoreicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_bedesistoreicon.jpg.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-xhdpi\\bedesistoreicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash.png.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-hdpi_bedesistoreicon.jpg.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-hdpi\\bedesistoreicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_bedesistoreicon.jpg.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\bedesistoreicon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\app\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\test\\AndroidStudioProjects\\store\\android\\app\\src\\main\\res\\mipmap-xhdpi\\splash.png"
+    }
+]

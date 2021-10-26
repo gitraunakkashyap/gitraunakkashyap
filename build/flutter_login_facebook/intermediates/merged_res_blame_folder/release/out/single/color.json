@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/com_facebook_button_text_color.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/9147fc46be930ca89c288bba13f0a34c/transformed/jetified-facebook-common-11.2.0/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/flutter_login_facebook/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/83f34764eca832c77898d1a6fa874a71/transformed/appcompat-1.1.0/res/color/abc_tint_seek_thumb.xml"
+    }
+]

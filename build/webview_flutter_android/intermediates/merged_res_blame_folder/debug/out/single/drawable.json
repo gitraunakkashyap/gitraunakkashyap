@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\webview_flutter_android\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\test\\.gradle\\caches\\transforms-3\\cf54f9d607b89e767c39e7f5c7118780\\transformed\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\webview_flutter_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\test\\.gradle\\caches\\transforms-3\\cf54f9d607b89e767c39e7f5c7118780\\transformed\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\webview_flutter_android\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\test\\.gradle\\caches\\transforms-3\\cf54f9d607b89e767c39e7f5c7118780\\transformed\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\test\\AndroidStudioProjects\\store\\build\\webview_flutter_android\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\test\\.gradle\\caches\\transforms-3\\cf54f9d607b89e767c39e7f5c7118780\\transformed\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

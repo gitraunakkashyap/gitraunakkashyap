@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/layout/toast_custom.xml",
+        "source": "/home/ubuntu-pc-2/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.8/android/src/main/res/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/ubuntu-pc-2/AndroidStudioProjects/store/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/ubuntu-pc-2/.gradle/caches/transforms-3/cf54f9d607b89e767c39e7f5c7118780/transformed/core-1.1.0/res/layout/notification_template_part_time.xml"
+    }
+]
